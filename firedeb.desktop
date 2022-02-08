@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Debian Web
+Comment=A Web Browser Based desktop for debian W.I.P
+Exec=/bin/firedeb.sh
+Type=Application
