@@ -7,7 +7,7 @@ The stable releases are found here:https://github.com/dgrtygry/Firedeb-Desktop/r
 
 
 
-Credit to these developers for making firedeb possible!
+Credit to these developers below for making firedeb possible! 
 
 
 Kwin:https://kde.org/ 
