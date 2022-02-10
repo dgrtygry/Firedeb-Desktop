@@ -1,3 +1,0 @@
-Extract the files to your downloads directory. Your username must be "admin". If it is not admin then the package will not work.
-
-After extracting the packages to your "Downloads" folder, Go to the "scripts", open a terminal and run "cd /home/admin/Downloads/scripts" then you need to run "sudo sh install firedeb.sh" and the desktop will install automatically for you. Enjoy the Desktop!
