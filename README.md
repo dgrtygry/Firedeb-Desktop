@@ -1,26 +1,7 @@
-A simple desktop for debian.
+A simple desktop for linux.
 
+How To Instal:
 
-The bleeding-edge releases are located here:https://mega.nz/folder/zPwFVaBT#k4B3DjV95ff6Xb5dXUyHjQ 
+Download SDK, There should be included instructions. The instructions aren't very good with what you need to do. So you open "scripts" and run "install firedeb.sh". The script will do it's work and then you'll have a fully working desktop.
 
-The stable releases are found here:https://github.com/dgrtygry/Firedeb-Desktop/releases/
-
-
-
-Credit to these developers below for making firedeb possible! 
-
-
-Kwin:https://kde.org/ 
-
-The Dock:https://glx-dock.org/
-
-The wallpaper and desktop icons:https://github.com/cheesecakeufo/komorebi
-
-The Display manager:https://github.com/sddm/sddm
-
-The application manager or Application finder aka xfce4-appfinder:https://www.xfce.org/
-
-The WebBrowser:https://www.chromium.org/getting-involved/download-chromium/ 
-
-All credits go to these developers for working hard on their projects. This desktop would not be possible without them!
-
+Please make sure your username is "admin" as it won't work if it isn't.
