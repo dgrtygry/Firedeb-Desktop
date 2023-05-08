@@ -1,3 +1,5 @@
+NOTE: I wrote this program when I was 15. I did not have very good spelling so please follow instructs below to install FireDeb.
+
 A simple desktop for linux.
 
 How To Instal:
